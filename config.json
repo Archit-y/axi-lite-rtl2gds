@@ -1,0 +1,11 @@
+{
+    "DESIGN_NAME": "axi_lite_slave",
+    "VERILOG_FILES": "dir::src/*.sv",
+    "CLOCK_PORT": "ACLK",
+    "CLOCK_PERIOD": 10,
+    "FP_CORE_UTIL": 35,
+    "SYNTH_READ_BLACKBOX_LIB": true,
+    "DIODE_INSERTION_STRATEGY": 4,
+    "FP_PDN_MULTILAYER": true,
+    "SYNTH_MAX_FANOUT": 4
+}
